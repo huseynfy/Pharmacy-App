@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\obj\Debug\Pharmacy(Modified).csprojAssemblyReference.cache
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\bin\Debug\Pharmacy(Modified).exe.config
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\bin\Debug\Pharmacy(Modified).exe
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\bin\Debug\Pharmacy(Modified).pdb
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\obj\Debug\Pharmacy(Modified).exe
+C:\Users\Code\Desktop\C#\Pharmacy\Pharmacy(Modified)\obj\Debug\Pharmacy(Modified).pdb
